@@ -8,7 +8,6 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ## Contents
 
-| Course Name | 
 | :---        |
 | Introduction to Data Analytics      | 
 
