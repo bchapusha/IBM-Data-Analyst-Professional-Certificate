@@ -30,7 +30,9 @@ This respository contains all the courses with solutions to quizzes and lab work
     </tr>
 </table>
 
-**Course Certificate**:
+**Course Certificate**
+
+---
 
 <p align="center">
 <img src="images/course1.jpg" alt="Image of Certificate" width="667" height="500">
