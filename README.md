@@ -13,7 +13,9 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ## Certificate Courses
 
-### 1. Introduction to Data Analytics
+### 1. Data Analysis and Visualization Foundations (3-in-1 Course)
+
+#### 1.1 Introduction to Data Analytics
 
 **Course description:** 
 
@@ -27,13 +29,7 @@ Highlighting the role of a data analyst, and the tools used in the job. This inc
     </tr>
 </table>
 
-**Course certificate:**
-
-<img src="images/course1.jpg" alt="Image of Certificate" width="667" height="500">
-
----
-
-### 2. Excel Basics for Data Analysis
+#### 1.2 Excel Basics for Data Analysis
 
 **Course description:** 
 
@@ -47,13 +43,7 @@ Introduction to spreadsheets including Excel and Google Sheets. Collecting, wran
     </tr>
 </table>
 
-**Course certificate:**
-
-<img src="images/course2.jpg" alt="Image of Certificate" width="667" height="500">
-
----
-
-### 3. Data Visualization and Dashboards with Excel and Cognos
+#### 1.3 Data Visualization and Dashboards with Excel and Cognos
 
 **Course description:** 
 
@@ -67,7 +57,7 @@ Create data visualizations and dashboards using spreadsheets and analytics tools
     </tr>
 </table>
 
-**Course certificate:**
+#### Certificate:
 
 <img src="images/course3.jpg" alt="Image of Certificate" width="667" height="500">
 
