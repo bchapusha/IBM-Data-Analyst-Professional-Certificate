@@ -22,6 +22,14 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 **Course description**: Highlighting the role of a data analyst, and the tools used in the job. This includes the skills and responsibilities of a data analyst and the differences between Data Analysts, Data Scientists, and Data Engineers.
 
+**Skills acquired**
+
+<table>
+    <tr>
+        <td>Data Analysis</td><td>Data Visualization<td>Spreadsheets</td>
+    </tr>
+</table>
+
 **Course Certificate**:
 
 <p align="center">
@@ -38,7 +46,7 @@ Highlighting the role of a Data Analyst, and the tools used in this job. This in
 
 <table>
     <tr>
-        <td>Data Analysis</td>Data Visualization<td>Spreadsheets</td>
+        <td>Data Analysis</td><td>Data Visualization<td>Spreadsheets</td>
     </tr>
 </table>
 
