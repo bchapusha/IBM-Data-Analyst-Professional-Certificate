@@ -8,10 +8,10 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ## Contents
 
-| Course Name | Course Certificate |
-| :---        |    :----:   |
-| Introduction to Data Analytics      | Course Certificate       |
-| Paragraph   | Text        |
+| Course Name | 
+| :---        |
+| Introduction to Data Analytics      | 
+
 
 ## Certificate Courses
 
