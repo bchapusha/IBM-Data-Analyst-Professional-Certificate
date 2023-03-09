@@ -104,3 +104,23 @@ A demonstration of skills aquired in the *Python for Data Science and AI Develop
 <img src="images/course5.jpg" alt="Image of Certificate" width="667" height="500">
 
 ---
+
+### 4. Databases and SQL for Data Science with Python
+
+**Course description:** 
+
+Introduction to SQL for data analysis and using SQL with Python. Building queries and working with real databases on the IBM cloud to analyze and draw data-driven conclusions. 
+
+**Skills acquired:**
+
+<table>
+    <tr>
+        <td>Relational Database Management System (RDBMS)</td><td>SQL</td><td>Cloud Databases</td>
+    </tr>
+</table>
+
+#### Certificate:
+
+<img src="images/course6.jpg" alt="Image of Certificate" width="667" height="500">
+
+---
