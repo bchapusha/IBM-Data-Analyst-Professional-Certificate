@@ -10,6 +10,6 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ### Introduction to Data Analytics
 
-**Course description: Highlighting the role of a Data Analyst, and the tools used in this job. This includes the skills and responsibilities of a data analyst and the differences between Data Analysts, Data Scientists, and Data Engineers. 
+**Course description**: Highlighting the role of a Data Analyst, and the tools used in this job. This includes the skills and responsibilities of a data analyst and the differences between Data Analysts, Data Scientists, and Data Engineers. 
 ![course1](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/blob/main/images/course1.jpg)
 
