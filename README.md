@@ -11,8 +11,16 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ## Contents
 
-| Courses |
+| Certificate Courses |
 | :---        |
+| 1. Introduction to Data Analytics      |
+| 2. Excel Basics for Data Analysis      | 
+| 3. Data Visualization and Dashboards with Excel and Cognos      | 
+| 1. Introduction to Data Analytics      | 
+| 1. Introduction to Data Analytics      | 
+| 1. Introduction to Data Analytics      | 
+| 1. Introduction to Data Analytics      | 
+| 1. Introduction to Data Analytics      | 
 | 1. Introduction to Data Analytics      | 
 
 
@@ -20,17 +28,19 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ### 1. Introduction to Data Analytics
 
-**Course description**: Highlighting the role of a data analyst, and the tools used in the job. This includes the skills and responsibilities of a data analyst and the differences between Data Analysts, Data Scientists, and Data Engineers.
+**Course description:** 
 
-**Skills acquired**
+Highlighting the role of a data analyst, and the tools used in the job. This includes the skills and responsibilities of a data analyst and the differences between Data Analysts, Data Scientists, and Data Engineers.
+
+**Skills acquired:**
 
 <table>
     <tr>
-        <td>Data Analysis</td><td>Data Visualization<td>Spreadsheets</td>
+        <td>Data Analysis</td><td>Data Visualization</td>
     </tr>
 </table>
 
-**Course Certificate**
+**Course certificate:**
 
 <img src="images/course1.jpg" alt="Image of Certificate" width="667" height="500">
 
@@ -38,21 +48,40 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ### 2. Excel Basics for Data Analysis
 
-**Course description** 
+**Course description:** 
 
-Highlighting the role of a Data Analyst, and the tools used in this job. This includes the skills and responsibilities of a data analyst and the differences between Data Analysts, Data Scientists, and Data Engineers.
+Introduction to spreadsheets including Excel and Google Sheets. Collecting, wrangling and cleaning data using functions and analyzing data through filtering, sorting and pivot tables
 
-**Skills acquired**
+**Skills acquired:**
 
 <table>
     <tr>
-        <td>Data Analysis</td><td>Data Visualization<td>Spreadsheets</td>
+        <td>Microsoft Excel</td><td>Pivot Tables</td><td>Spreadsheets</td><td>DAX</td>
     </tr>
 </table>
 
-**Course Certificate**
+**Course certificate:**
 
-<img src="" alt="Image of Certificate" width="667" height="500">
+<img src="images/course2.jpg" alt="Image of Certificate" width="667" height="500">
 
 ---
 
+### 3. Data Visualization and Dashboards with Excel and Cognos
+
+**Course description:** 
+
+Create data visualizations and dashboards using spreadsheets and analytics tools. Using various types of charts and graphs in Excel and IBM Cognos Analytics to tell stories with data.
+
+**Skills acquired:**
+
+<table>
+    <tr>
+        <td>IBM Cosgnos Analytics</td><td>Dashboard</td><td>Microsoft Excel</td>
+    </tr>
+</table>
+
+**Course certificate:**
+
+<img src="images/course3.jpg" alt="Image of Certificate" width="667" height="500">
+
+---
