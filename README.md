@@ -11,22 +11,6 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ---
 
-## Contents
-
-| Certificate Courses |
-| :---        |
-| 1. Introduction to Data Analytics      |
-| 2. Excel Basics for Data Analysis      | 
-| 3. Data Visualization and Dashboards with Excel and Cognos      | 
-| 1. Introduction to Data Analytics      | 
-| 1. Introduction to Data Analytics      | 
-| 1. Introduction to Data Analytics      | 
-| 1. Introduction to Data Analytics      | 
-| 1. Introduction to Data Analytics      | 
-| 1. Introduction to Data Analytics      | 
-
----
-
 ## Certificate Courses
 
 ### 1. Introduction to Data Analytics
