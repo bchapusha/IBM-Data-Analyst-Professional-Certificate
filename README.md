@@ -5,7 +5,7 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ## Professional Certificate
 
-<img src="images/cousera-certificate-ibmdapc-2023.jpg" alt="Image of Professional Certificate" width="534" height="400">
+<img src="images/cousera-certificate-ibmdapc-2023.jpg" alt="Image of Professional Certificate" width="700" height="500">
 
 ---
 
