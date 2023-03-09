@@ -20,8 +20,30 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ### 1. Introduction to Data Analytics
 
-**Course description**: Highlighting the role of a Data Analyst, and the tools used in this job. This includes the skills and responsibilities of a data analyst and the differences between Data Analysts, Data Scientists, and Data Engineers.
+**Course description**: Highlighting the role of a data analyst, and the tools used in the job. This includes the skills and responsibilities of a data analyst and the differences between Data Analysts, Data Scientists, and Data Engineers.
 
 **Course Certificate**:
-![course1](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/blob/main/images/course1.jpg)
 
+<p align="center">
+<img src="images/course1.jpg" alt="Image of Certificate" width="667" height="500">
+</p>
+
+### 2. Excel Basics for Data Analysis
+
+**Course description** 
+
+Highlighting the role of a Data Analyst, and the tools used in this job. This includes the skills and responsibilities of a data analyst and the differences between Data Analysts, Data Scientists, and Data Engineers.
+
+**Skills acquired**
+
+<table>
+    <tr>
+        <td>Data Analysis</td>Data Visualization<td>Spreadsheets</td>
+    </tr>
+</table>
+
+**Course Certificate**
+
+<p align="center">
+<img src="images/course2.jpg" alt="Image of Certificate" width="667" height="500">
+</p>
