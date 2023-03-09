@@ -9,6 +9,8 @@ This respository contains all the courses with solutions to quizzes and lab work
 <img src="images/cousera-certificate-ibmdapc-2023.jpg" alt="Image of Professional Certificate" width="667" height="500">
 </p>
 
+---
+
 ## Contents
 
 | Certificate Courses |
@@ -23,6 +25,7 @@ This respository contains all the courses with solutions to quizzes and lab work
 | 1. Introduction to Data Analytics      | 
 | 1. Introduction to Data Analytics      | 
 
+---
 
 ## Certificate Courses
 
