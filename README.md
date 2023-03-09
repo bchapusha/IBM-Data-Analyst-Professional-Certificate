@@ -59,6 +59,26 @@ Create data visualizations and dashboards using spreadsheets and analytics tools
 
 #### Certificate:
 
-<img src="images/course3.jpg" alt="Image of Certificate" width="667" height="500">
+<img src="images/course1.jpg" alt="Image of Certificate" width="667" height="500">
+
+---
+
+### 2. Python for Data Science and AI Development
+
+**Course description:** 
+
+Introduction to the basics of Python programming. Dealing with syntax, data structures and logic concepts; using Pandas, Numpy and Beautiful Soup libaries. Applying these skills to create programs and work in labs using Jupyter Notebooks.
+
+**Skills acquired:**
+
+<table>
+    <tr>
+        <td>Python Programming</td><td>Pandas</td><td>Numpy</td>
+    </tr>
+</table>
+
+#### Certificate:
+
+<img src="images/course4.jpg" alt="Image of Certificate" width="667" height="500">
 
 ---
