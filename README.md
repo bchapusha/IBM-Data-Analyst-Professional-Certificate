@@ -86,8 +86,8 @@ Introduction to the basics of Python programming. Dealing with syntax, data stru
 
 A demonstration of skills aquired in the *Python for Data Science and AI Development* course; assuming the role of a Data Analyst and be provided with a real-world data set and a real-world inspired scenario to identify patterns and trends.
 
-| **Project Name** | An Analysis of Tesla and Gamestop Stock Data |
-| ---------------- | :--- |
+| **Project Name** <img width=200/>| An Analysis of Tesla and Gamestop Stock Data |
+| :--- | :--- |
 |**Description** | A new startup investment firm helps customers invest their money in stocks. Extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. Visualize it in a dashboard to identify patterns or trends.|
 | **Link to project**| [Project Repository](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Python-project-for-data-science)|
 
