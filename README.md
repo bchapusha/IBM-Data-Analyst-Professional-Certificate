@@ -25,7 +25,7 @@ Highlighting the role of a data analyst, and the tools used in the job. This inc
 
 <table>
     <tr>
-        <td>Data Analysis</td><td>Data Visualization</td>
+        <td>Data Analysis</td><td>Data Science</td><td>Data Visualization</td>
     </tr>
 </table>
 
@@ -39,7 +39,7 @@ Introduction to spreadsheets including Excel and Google Sheets. Collecting, wran
 
 <table>
     <tr>
-        <td>Microsoft Excel</td><td>Pivot Tables</td><td>Spreadsheets</td><td>DAX</td>
+        <td>Microsoft Excel</td><td>Pivot Tables</td><td>Spreadsheets</td>
     </tr>
 </table>
 
