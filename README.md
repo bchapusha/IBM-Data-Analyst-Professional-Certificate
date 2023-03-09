@@ -52,7 +52,7 @@ Highlighting the role of a Data Analyst, and the tools used in this job. This in
 
 **Course Certificate**
 
-<img src="images/course2.jpg" alt="Image of Certificate" width="667" height="500">
+<img src="" alt="Image of Certificate" width="667" height="500">
 
 ---
 
