@@ -32,11 +32,9 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 **Course Certificate**
 
----
-
-<p align="center">
 <img src="images/course1.jpg" alt="Image of Certificate" width="667" height="500">
-</p>
+
+---
 
 ### 2. Excel Basics for Data Analysis
 
@@ -54,6 +52,7 @@ Highlighting the role of a Data Analyst, and the tools used in this job. This in
 
 **Course Certificate**
 
-<p align="center">
 <img src="images/course2.jpg" alt="Image of Certificate" width="667" height="500">
-</p>
+
+---
+
