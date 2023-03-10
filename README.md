@@ -199,4 +199,4 @@ Work with various data visualization tools and techniques; creating basic and ad
 
 #### Certificate
 
-<img src="images/course8.jpg" alt="Image of Certificate" width="667" height="500">
+<img src="images/course9.jpg" alt="Image of Certificate" width="667" height="500">
