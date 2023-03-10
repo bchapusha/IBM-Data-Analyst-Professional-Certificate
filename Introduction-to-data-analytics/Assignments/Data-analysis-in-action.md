@@ -14,7 +14,7 @@ Imagine that you have been hired as a Data Analyst to work in the Credit Card Di
 
 #### Sample data visualization chart of data set
 
-<img src="images/week-5-assignment-dataset-visual.jpg" align="left" width="1100" height="800">
+<img src="images/week-5-assignment-dataset-visual.jpg" align="left" width="1100" height="600">
 
 ---
 
