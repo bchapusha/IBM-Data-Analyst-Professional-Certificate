@@ -58,7 +58,7 @@ Create data visualizations and dashboards using spreadsheets and analytics tools
     </tr>
 </table>
 
-#### Certificate
+#### 📜 Certificate
 
 <img src="images/course1.jpg" alt="Image of Certificate" width="667" height="500">
 
@@ -78,7 +78,7 @@ Introduction to the basics of Python programming. Dealing with syntax, data stru
     </tr>
 </table>
 
-#### Certificate
+#### 📜 Certificate
 
 <img src="images/course4.jpg" alt="Image of Certificate" width="667" height="500">
 
@@ -106,7 +106,7 @@ A demonstration of skills aquired in the *Python for Data Science and AI Develop
     </tr>
 </table>
 
-#### Certificate
+#### 📜 Certificate
 
 <img src="images/course5.jpg" alt="Image of Certificate" width="667" height="500">
 
@@ -126,7 +126,7 @@ Introduction to SQL for data analysis and using SQL with Python. Building querie
     </tr>
 </table>
 
-#### Certificate
+#### 📜 Certificate
 
 <img src="images/course6.jpg" alt="Image of Certificate" width="667" height="500">
 
@@ -146,7 +146,7 @@ Building and evualuating data models using Python. Importing data, cleaning and 
     </tr>
 </table>
 
-#### Certificate
+#### 📜 Certificate
 
 <img src="images/course7.jpg" alt="Image of Certificate" width="667" height="500">
 
@@ -173,7 +173,7 @@ Work with various data visualization tools and techniques; creating basic and ad
     </tr>
 </table>
 
-#### Certificate
+#### 📜 Certificate
 
 <img src="images/course8.jpg" alt="Image of Certificate" width="667" height="500">
 
@@ -200,6 +200,6 @@ Applying the various data analytics skills and techniques learned in previous co
     </tr>
 </table>
 
-#### Certificate
+#### 📜 Certificate
 
 <img src="images/course9.jpg" alt="Image of Certificate" width="667" height="500">
