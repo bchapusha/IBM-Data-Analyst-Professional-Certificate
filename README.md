@@ -133,7 +133,7 @@ Introduction to SQL for data analysis and using SQL with Python. Building querie
 
 #### Course description
 
-Introduction to SQL for data analysis and using SQL with Python. Building queries and working with real databases on the IBM cloud to analyze and draw data-driven conclusions. 
+Building and evualuating data models using Python. Importing data, cleaning and wrangling data, performing exploratory data analysis and creating meaninful data visualizations. Predicting trends by developing linear, multiple, polynomial regression models and pipelines.
 
 #### Skills acquired
 
@@ -148,3 +148,55 @@ Introduction to SQL for data analysis and using SQL with Python. Building querie
 <img src="images/course7.jpg" alt="Image of Certificate" width="667" height="500">
 
 ---
+
+### 8. Data Visualization with Python
+
+#### Course description
+
+Work with various data visualization tools and techniques; creating basic and advanced graphs and charts. Creating interactive dashboards and completing a final project to apply the skills learned. 
+
+#### Project Summary
+    
+|**Project Name** | **Description** |
+|:--- | :--- |
+| [An Analysis of Tesla and Gamestop Stock Data](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Python-project-for-data-science) | A new startup investment firm helps customers invest their money in stocks. Extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. Visualize it in a dashboard to identify patterns or trends. |
+
+
+#### Skills acquired
+
+<table>
+    <tr>
+        <td>Python Programming</td><td>Matplotlib</td><td>Seaborn</td>
+    </tr>
+</table>
+
+#### Certificate
+
+<img src="images/course8.jpg" alt="Image of Certificate" width="667" height="500">
+
+---
+
+### 9. IBM Data Analyst Capstone Project
+
+#### Course description
+
+Work with various data visualization tools and techniques; creating basic and advanced graphs and charts. Creating interactive dashboards and completing a final project to apply the skills learned. 
+
+#### Project Summary
+    
+|**Project Name** | **Description** |
+|:--- | :--- |
+| [An Analysis of Tesla and Gamestop Stock Data](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Python-project-for-data-science) | A new startup investment firm helps customers invest their money in stocks. Extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. Visualize it in a dashboard to identify patterns or trends. |
+
+
+#### Skills acquired
+
+<table>
+    <tr>
+        <td>Python Programming</td><td>Matplotlib</td><td>Dashboards and Charts</td>
+    </tr>
+</table>
+
+#### Certificate
+
+<img src="images/course8.jpg" alt="Image of Certificate" width="667" height="500">
