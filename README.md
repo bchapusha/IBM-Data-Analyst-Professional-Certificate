@@ -13,7 +13,7 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ### Data Analysis and Visualization Foundations (3-in-1 Certificate)
 
-#### 1. Introduction to Data Analytics
+#### 1. [Introduction to Data Analytics](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Introduction-to-data-analytics)
 
 ##### Course description
 
