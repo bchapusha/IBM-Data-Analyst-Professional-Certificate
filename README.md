@@ -6,9 +6,11 @@
 
 ## About
 
-This respository contains all the courses with the solutions I found to quizzes and lab work, in the 2023 [**IBM Data Analyst Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-data-analyst?) featured on Cousera. Under this readme, is a brief description of what each course entails along with the accompanying certificate I received.
+This respository contains all the courses with the solutions I found to quizzes and lab work, in the 2023 [**IBM Data Analyst Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-data-analyst?) featured on Cousera. Under this readme, is a brief description of what each course entails, the skills that I practiced and aquired, and with the accompanying certificates I received.
 
 ## Professional Certificate
+
+The final certificate of completion for all 9 courses.
 
 <img src="images/cousera-certificate-ibmdapc-2023.jpg" alt="Image of Professional Certificate" width="800" height="540">
 
