@@ -1,4 +1,5 @@
 <img src="images/ibm-logo.jpg" alt="Image of IBM logo" width="140" height="100">
+
 # IBM Data Analyst Professional Certificate      
 ## About
 
