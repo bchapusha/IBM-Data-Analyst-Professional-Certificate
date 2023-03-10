@@ -1,6 +1,8 @@
 # Introduction to Data Analytics
 
-### Quiz Directory
+### Course Content
+
+#### Quizzes
 
 | Course Week | Quiz|
 | :--- | :---: |
