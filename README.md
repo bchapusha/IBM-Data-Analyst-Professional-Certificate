@@ -1,4 +1,5 @@
-# IBM Data Analyst Professional Certificate      <img src="images/ibm-logo.jpg" alt="Image of IBM logo" width="140" height="100">
+<img src="images/ibm-logo.jpg" alt="Image of IBM logo" width="140" height="100">
+# IBM Data Analyst Professional Certificate      
 ## About
 
 This respository contains all the courses with solutions to quizzes and lab work, in the 2023 [**IBM Data Analyst Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-data-analyst?) featured on Cousera. Under this readme, is a brief description of what each course entails along with the accompanying certificate.
