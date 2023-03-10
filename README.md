@@ -180,7 +180,7 @@ Work with various data visualization tools and techniques; creating basic and ad
 
 #### Course description
 
-Work with various data visualization tools and techniques; creating basic and advanced graphs and charts. Creating interactive dashboards and completing a final project to apply the skills learned. 
+Applying the various data analytics skills and techniques learned in previous courses of the IBM Data Analyst Professional Certificate in a detailed project. Culminating with a presentation of a data analysis report for various stakeholders in a select organization. The report includes an executive summary, the details of the analysis, and a conclusion. 
 
 #### Project Summary
     
@@ -193,7 +193,7 @@ Work with various data visualization tools and techniques; creating basic and ad
 
 <table>
     <tr>
-        <td>Python Programming</td><td>Matplotlib</td><td>Dashboards and Charts</td>
+        <td>Python Programming</td><td>SQL and RDBMS</td><td>Data Analysis</td>
     </tr>
 </table>
 
