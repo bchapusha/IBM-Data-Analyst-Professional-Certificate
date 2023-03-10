@@ -10,9 +10,10 @@ Imagine that you have been hired as a Data Analyst to work in the Credit Card Di
 
 <img src="images/week-5-assignment-dataset-sample.jpg" align="left" width="1100" height="400">
 
+
 #### Sample data visualization chart of data set.
 
-<img src="" align="left" width="1100" height="400">
+<img src="images/week-5-assignment-dataset-visual.jpg" align="left" width="1100" height="400">
 
 
 ## Questions
