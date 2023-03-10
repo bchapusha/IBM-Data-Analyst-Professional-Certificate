@@ -10,4 +10,4 @@ In order to prescribe a way forward, that is, suggest what should be done in ord
 
 #### Sample data set of credit card transaction details for a few users:
 
-<img src="Introduction-to-data-analytics/Assignments/images/week-5-assignment-dataset-sample.jpg" alt="Image of Sample Dataset" align="left" width="500" height="400">
+<img src="images/week-5-assignment-dataset-sample.jpg" alt="Image of Sample Dataset" align="left" width="500" height="400">
