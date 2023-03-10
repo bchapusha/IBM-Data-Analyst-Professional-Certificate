@@ -27,7 +27,7 @@ Highlighting the role of a data analyst, and the tools used in the job. This inc
     </tr>
 </table>
 
-#### 2. Excel Basics for Data Analysis
+#### 2. [Excel Basics for Data Analysis](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel-basics-for-data-anaysis)
 
 ##### Course description
 
@@ -41,7 +41,7 @@ Introduction to spreadsheets including Excel and Google Sheets. Collecting, wran
     </tr>
 </table>
 
-#### 3. Data Visualization and Dashboards with Excel and Cognos
+#### 3. [Data Visualization and Dashboards with Excel and Cognos](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Data-visualization-and-dashboards-with-excel-and-cognos)
 
 ##### Course description
 
@@ -61,7 +61,7 @@ Create data visualizations and dashboards using spreadsheets and analytics tools
 
 ---
 
-### 4. Python for Data Science and AI Development
+### 4. [Python for Data Science and AI Development](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Python-for-data-science-ai-and-development)
 
 #### Course description
 
@@ -80,7 +80,7 @@ Introduction to the basics of Python programming. Dealing with syntax, data stru
 <img src="images/course4.jpg" alt="Image of Certificate" width="667" height="500">
 
 ---
-### 5. Python Project for Data Science
+### 5. [Python Project for Data Science](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Python-project-for-data-science)
 
 #### Course description 
 
@@ -109,7 +109,7 @@ A demonstration of skills aquired in the *Python for Data Science and AI Develop
 
 ---
 
-### 6. Databases and SQL for Data Science with Python
+### 6. [Databases and SQL for Data Science with Python](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Databases-and-sql-for-data-science-with-python)
 
 #### Course description
 
@@ -129,7 +129,7 @@ Introduction to SQL for data analysis and using SQL with Python. Building querie
 
 ---
 
-### 7. Data Analysis with Python
+### 7. [Data Analysis with Python](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Data-analysis-with-python)
 
 #### Course description
 
@@ -149,7 +149,7 @@ Building and evualuating data models using Python. Importing data, cleaning and 
 
 ---
 
-### 8. Data Visualization with Python
+### 8. [Data Visualization with Python](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Data-visualization-with-python)
 
 #### Course description
 
@@ -176,7 +176,7 @@ Work with various data visualization tools and techniques; creating basic and ad
 
 ---
 
-### 9. IBM Data Analyst Capstone Project
+### 9. [IBM Data Analyst Capstone Project](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Data-analysis-with-python)
 
 #### Course description
 
