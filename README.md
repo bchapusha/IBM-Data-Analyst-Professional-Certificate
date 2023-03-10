@@ -11,15 +11,15 @@ This respository contains all the courses with solutions to quizzes and lab work
 
 ## Certificate Courses
 
-### 1. Data Analysis and Visualization Foundations (3-in-1 Course)
+### Data Analysis and Visualization Foundations (3-in-1 Course)
 
-#### 1.1 Introduction to Data Analytics
+#### 1. Introduction to Data Analytics
 
-**Course description:** 
+##### Course description
 
 Highlighting the role of a data analyst, and the tools used in the job. This includes the skills and responsibilities of a data analyst and the differences between Data Analysts, Data Scientists, and Data Engineers.
 
-**Skills acquired:**
+##### Skills acquired
 
 <table>
     <tr>
@@ -27,13 +27,13 @@ Highlighting the role of a data analyst, and the tools used in the job. This inc
     </tr>
 </table>
 
-#### 1.2 Excel Basics for Data Analysis
+#### 2. Excel Basics for Data Analysis
 
-**Course description:** 
+##### Course description
 
 Introduction to spreadsheets including Excel and Google Sheets. Collecting, wrangling and cleaning data using functions and analyzing data through filtering, sorting and pivot tables
 
-**Skills acquired:**
+##### Skills acquired
 
 <table>
     <tr>
@@ -41,13 +41,13 @@ Introduction to spreadsheets including Excel and Google Sheets. Collecting, wran
     </tr>
 </table>
 
-#### 1.3 Data Visualization and Dashboards with Excel and Cognos
+#### 3. Data Visualization and Dashboards with Excel and Cognos
 
-**Course description:** 
+##### Course description
 
 Create data visualizations and dashboards using spreadsheets and analytics tools. Using various types of charts and graphs in Excel and IBM Cognos Analytics to tell stories with data.
 
-**Skills acquired:**
+##### Skills acquired
 
 <table>
     <tr>
@@ -55,19 +55,19 @@ Create data visualizations and dashboards using spreadsheets and analytics tools
     </tr>
 </table>
 
-#### Certificate:
+#### Certificate
 
 <img src="images/course1.jpg" alt="Image of Certificate" width="667" height="500">
 
 ---
 
-### 2. Python for Data Science and AI Development
+### 4. Python for Data Science and AI Development
 
-**Course description:** 
+#### Course description
 
 Introduction to the basics of Python programming. Dealing with syntax, data structures and logic concepts; using Pandas, Numpy and Beautiful Soup libaries. Applying these skills to create programs and work in labs using Jupyter Notebooks.
 
-**Skills acquired:**
+#### Skills acquired
 
 <table>
     <tr>
@@ -75,16 +75,18 @@ Introduction to the basics of Python programming. Dealing with syntax, data stru
     </tr>
 </table>
 
-#### Certificate:
+#### Certificate
 
 <img src="images/course4.jpg" alt="Image of Certificate" width="667" height="500">
 
 ---
-### 3. Python Project for Data Science
+### 5. Python Project for Data Science
 
-**Course description:** 
+#### Course description 
 
 A demonstration of skills aquired in the *Python for Data Science and AI Development* course; assuming the role of a Data Analyst and be provided with a real-world data set and a real-world inspired scenario to identify patterns and trends.
+
+#### Project Summary
     
 |**Project Name** | **Description** |
 |:--- | :--- |
@@ -93,7 +95,7 @@ A demonstration of skills aquired in the *Python for Data Science and AI Develop
 
 
 
-**Skills acquired:**
+#### Skills acquired
 
 <table>
     <tr>
@@ -101,19 +103,19 @@ A demonstration of skills aquired in the *Python for Data Science and AI Develop
     </tr>
 </table>
 
-#### Certificate:
+#### Certificate
 
 <img src="images/course5.jpg" alt="Image of Certificate" width="667" height="500">
 
 ---
 
-### 4. Databases and SQL for Data Science with Python
+### 6. Databases and SQL for Data Science with Python
 
-**Course description:** 
+#### Course description
 
 Introduction to SQL for data analysis and using SQL with Python. Building queries and working with real databases on the IBM cloud to analyze and draw data-driven conclusions. 
 
-**Skills acquired:**
+#### Skills acquired
 
 <table>
     <tr>
@@ -121,8 +123,28 @@ Introduction to SQL for data analysis and using SQL with Python. Building querie
     </tr>
 </table>
 
-#### Certificate:
+#### Certificate
 
 <img src="images/course6.jpg" alt="Image of Certificate" width="667" height="500">
+
+---
+
+### 7. Data Analysis with Python
+
+#### Course description
+
+Introduction to SQL for data analysis and using SQL with Python. Building queries and working with real databases on the IBM cloud to analyze and draw data-driven conclusions. 
+
+#### Skills acquired
+
+<table>
+    <tr>
+        <td>Python Programming</td><td>Predictive Modelling</td><td>Model Selection</td>
+    </tr>
+</table>
+
+#### Certificate
+
+<img src="images/course7.jpg" alt="Image of Certificate" width="667" height="500">
 
 ---
