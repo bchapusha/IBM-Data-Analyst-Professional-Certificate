@@ -8,4 +8,4 @@ Imagine that you have been hired as a Data Analyst to work in the Credit Card Di
 
 In order to prescribe a way forward, that is, suggest what should be done in order for fraud to get detected early on, you need to understand what a fraudulent transaction looks like. And for that you need to start by looking at historical data. 
 
-[Sample data set of credit card transaction details for a few users:](images/week-5-assignment-dataset-sample.jpg)
+[Sample data set of credit card transaction details for a few users:](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/blob/main/Introduction-to-data-analytics/Assignments/images/week-5-assignment-dataset-sample.jpg)
