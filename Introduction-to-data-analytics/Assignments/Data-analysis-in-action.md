@@ -6,13 +6,13 @@ Companies today are employing analytical techniques for the early detection of c
 
 Imagine that you have been hired as a Data Analyst to work in the Credit Card Division of a bank. And your first assignment is to join your team in using data analysis for the early detection and mitigation of credit card fraud.   
 
-### Sample data set of credit card transaction details for a few users
+## Sample data set of credit card transaction details for a few users
 
 <img src="images/week-5-assignment-dataset-sample.jpg" align="left" width="1100">
 
 ---
 
-### Sample data visualization chart of data set
+## Sample data visualization chart of data set
 
 <img src="images/week-5-assignment-dataset-visual.jpg" align="left" width="1100">
 
