@@ -1,5 +1,7 @@
 # Introduction to Data Analytics
 
+Highlighting the role of a data analyst, and the tools used in the job. This includes the skills and responsibilities of a data analyst and the differences between Data Analysts, Data Scientists, and Data Engineers.
+
 ## Course Content
 
 ### Quizzes
