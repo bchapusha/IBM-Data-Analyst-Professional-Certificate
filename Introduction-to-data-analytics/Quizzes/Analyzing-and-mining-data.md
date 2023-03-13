@@ -1,3 +1,5 @@
+# Analyzing and Mining Data
+
 | Question | Answer |
 | :--- | :--- |
 | 1. What is a branch of mathematics dealing with the collection, analysis, interpretation, and presentation of numerical or quantitative data? | Statistics |
