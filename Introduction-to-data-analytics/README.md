@@ -16,6 +16,6 @@ Highlighting the role of a data analyst, and the tools used in the job. This inc
 
 ### Assignments
 
-| Course Week | Assignment|
+| Course Week | Assignment/Project|
 | :--- | :---: |
 | Week 5 | [Data Analysis in Action](Assignments/Data-analysis-in-action.md) |
