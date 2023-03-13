@@ -1,6 +1,5 @@
 # 🟦 Part 1: Clean and Prepare the Data
 
-## Peer-Graded Assignment: Final Assignment – Part 1
 **Estimated time needed: 45 minutes**
 
 Great! You have now completed all four modules of this course. This week, you will complete the final assignment that will be graded by your peers. In this assignment, you will open a CSV file in Excel for the web, convert it to an Excel format, and then clean and prepare the data.
@@ -39,14 +38,57 @@ Download the file Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV. Uplo
 
 7. **Department names**: When the data was converted from its data source, the department names (see correct list below) didn’t import correctly and they are now split over two columns in the data. Use Flash Fill to reduce the department names to just one column, and then remove any unnecessary columns.
 
-| Department  | Department |
-| :--- | :--- |
-| Board of Elections | Economic Development |
-| Circuit Court | Environmental Protection |
-| Community Engagement Cluster | Finance |
-| Community Use of Public Facilities | Fire and Rescue |
-| Consumer Protection | General Services |
-| Correction and Rehabilitation | Health and Human Services |
-| County Executives Office |  |
+    | Department  | Department |
+    | :--- | :--- |
+    | Board of Elections | Economic Development |
+    | Circuit Court | Environmental Protection |
+    | Community Engagement Cluster | Finance |
+    | Community Use of Public Facilities | Fire and Rescue |
+    | Consumer Protection | General Services |
+    | Correction and Rehabilitation | Health and Human Services |
+    | County Executives Office |  |
 
 8. Save your workbook: Use ‘Save As’ to save your completed workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX
+
+---
+
+# 🟦 Part 2: Analyze the Data
+
+**Estimated time needed: 45 minutes**
+
+You have now completed the first part of this final assignment. In this second part of the final assignment, you will take some cleaned and prepared data and create some pivot tables from it to help you analyze the data.
+
+## Assignment Scenario
+
+In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with sorting and analyzing fleet inventory data that was previously imported and cleaned. You plan to use pivot tables to analyze the data in preparation for the results to be visualized in a dashboard and added to a data findings report later.
+
+## Guidelines for the Submission
+
+Download and open the Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.XLSX file in Excel for the web.
+
+### Tasks to perform:
+
+1. **Format the data as a table**: Use the Format as Table option to format the data as a table.
+
+2. **Use AutoSum to calculate values**: Use AutoSum to find the following values for column ‘C’ and record each of the values:
+
+    * SUM
+    * AVERAGE
+    * MIN
+    * MAX
+    * COUNT
+
+3. **Create a Pivot Table**: Use the PivotTable feature to create a pivot table that displays the Department field in the Rows section, and the Equipment Count in the Values section, so that the pivot table displays the sum of equipment count by department.
+
+4. **Sort the pivot table data**: Use the Sort By Value setting on the pivot table to sort it in descending order by the sum of equipment count.
+
+5. **Make two more pivot tables exactly the same as task 3**: Follow the same steps you performed in Tasks 3 and 4 to create two more identical pivot tables so that you end up with 3 worksheets that contain identical pivot tables.
+
+6. **Analyze data in the pivot table**: Use the PivotTable Fields pane to manipulate and analyze data in the two copied pivot table as follows:
+
+    * In pivot table 2 add the Equipment Class field below the Department field so that the different vehicle types appear under each department with their respective counts.
+    * Collapse all fields except the top one - Transportation
+    * In pivot table 3 add the Equipment Class field above the Department field so that the different vehicle types appear first, with the different departments listed underneath each vehicle type with their respective counts.
+    * Collapse all fields except the top one - CUV
+
+7. **Save your workbook**: Use ‘Save As’ to save your workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX
