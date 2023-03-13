@@ -14,7 +14,7 @@ Highlighting the role of a data analyst, and the tools used in the job. This inc
 | Week 4 | [Quiz 1](Quizzes/Analyzing-and-mining-data.md), [Quiz 2](Quizzes/Communicating-data-analysis-findings.md) |
 | Week 5 | [Quiz 1](Quizzes/Opportunities-and-learning-paths.md) |
 
-### Assignments
+### Assignments and Projects
 
 | Course Week | Assignment/Project|
 | :--- | :---: |
