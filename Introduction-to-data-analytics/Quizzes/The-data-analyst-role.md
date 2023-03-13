@@ -1,3 +1,5 @@
+# The Data Analyst Role
+
 | Question | Answer |
 | :--- | :--- |
 | 1. Why is proficiency in Statistics an important skill for a Data Analyst? | For identifying patterns and correlations in data |
