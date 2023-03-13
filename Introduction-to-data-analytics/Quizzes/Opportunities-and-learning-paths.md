@@ -1,3 +1,5 @@
+# Opportunities and Learning Paths
+
 | Question | Answer |
 | :--- | :--- |
 | 1. Which of the following statement describes Data Analyst Specialist Roles? | Analysts who advance technical, statistical, and analytical skills, over time, to expert levels |
