@@ -1,8 +1,4 @@
-# 🟦 Part 1: Clean and Prepare the Data
-
-**Estimated time needed: 45 minutes**
-
-Great! You have now completed all four modules of this course. This week, you will complete the final assignment that will be graded by your peers. In this assignment, you will open a CSV file in Excel for the web, convert it to an Excel format, and then clean and prepare the data.
+# 🧰 Assignment Resources
 
 ## Software Used in this Assignment
 
@@ -15,6 +11,12 @@ Although you can use the Excel Desktop software if you have access to this versi
 The dataset used in this lab comes from the following source: https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr under a Public Domain license.
 
 We are using a modified subset of that dataset for the lab, so to follow the lab instructions successfully please use the dataset provided with the lab, rather than the dataset from the original source.
+
+# 🟦 Part 1: Clean and Prepare the Data
+
+**Estimated time needed: 45 minutes**
+
+Great! You have now completed all four modules of this course. This week, you will complete the final assignment that will be graded by your peers. In this assignment, you will open a CSV file in Excel for the web, convert it to an Excel format, and then clean and prepare the data.
 
 ## Assignment Scenario
 In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with importing some data from another department which relates to inventory information about their fleet of vehicles. The data is in comma-separated value (CSV) format and the data also needs cleaning up before you can start to run any kind of analysis on it.
