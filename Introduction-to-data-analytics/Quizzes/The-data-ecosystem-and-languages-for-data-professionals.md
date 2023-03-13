@@ -1,3 +1,5 @@
+# The Data Ecosystem and Languages for Data Professionals
+
 | Question | Answer |
 | :--- | :--- |
 | 1. In the data analyst’s ecosystem, languages are classified by type. What are shell and scripting languages most commonly used for? | Automating repetitive operational tasks |
