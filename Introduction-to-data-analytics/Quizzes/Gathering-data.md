@@ -1,3 +1,5 @@
+# Gathering Data
+
 | Question | Answer |
 | :--- | :--- |
 | 1. What are some of the steps in the process of “Identifying Data”? (Select all that apply) | i) Define a plan for collecting data |
