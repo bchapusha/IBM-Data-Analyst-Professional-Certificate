@@ -1,3 +1,5 @@
+# Wrangling Data
+
 | Question | Answer |
 | :--- | :--- |
 | 1. What does a typical data wrangling workflow include? | Validating the quality of the transformed data |
