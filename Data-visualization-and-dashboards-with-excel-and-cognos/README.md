@@ -8,7 +8,7 @@
 
 | Assignment | Submission |
 | :--- | :--- |
-| Part 1 |  |
+| Part 1 | [CarSalesByModelEnd.XLSX](CarSalesByModelEnd.xlsx) |
 | Part 2 |  |
  
 #### 🧰 Assignment Resources
