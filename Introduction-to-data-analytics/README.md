@@ -28,11 +28,11 @@ Imagine that you have been hired as a Data Analyst to work in the Credit Card Di
 
 #### 1. List at least 5 (five) data points that are required for the analysis and detection of a credit card fraud. 
 
-  **Ans**: 
+**Ans**: 
 
-    *The identification details of the customer or card holder 
+    * The identification details of the customer or card holder 
 
-    *The date and time transactions took place
+    * The date and time transactions took place
 
     * The amount spent on each transaction
 
