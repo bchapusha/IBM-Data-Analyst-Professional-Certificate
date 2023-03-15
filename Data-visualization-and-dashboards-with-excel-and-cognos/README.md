@@ -52,3 +52,7 @@ Create visualizations for the following:
 </p>
 
 5. **Save your workbook**: Use ‘Save As’ to save your completed workbook as CarSalesByModelEnd.xlsx
+
+---
+
+### 🟦 Part 2: Creating Visualizations Using Cognos Analytics
