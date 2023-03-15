@@ -56,7 +56,7 @@ Download the file [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV](htt
     | Correction and Rehabilitation | Health and Human Services |
     | County Executives Office |  |
 
-8. Save your workbook: Use ‘Save As’ to save your completed workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX
+8. **Save your workbook**: Use ‘Save As’ to save your completed workbook as [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx)
 
 ---
 
@@ -99,4 +99,4 @@ Download and open the [Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.XLSX
     * In pivot table 3 add the Equipment Class field above the Department field so that the different vehicle types appear first, with the different departments listed underneath each vehicle type with their respective counts.
     * Collapse all fields except the top one - CUV
 
-7. **Save your workbook**: Use ‘Save As’ to save your workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX
+7. **Save your workbook**: Use ‘Save As’ to save your workbook as [Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx)
