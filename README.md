@@ -2,7 +2,6 @@
 
 # IBM Data Analyst Professional Certificate      <img src="images/ibm-logo.jpg" alt="Image of IBM logo" align="left" width="140">
 
----
 
 ## About
 
@@ -34,7 +33,7 @@ Highlighting the role of a data analyst, and the tools used in the job. This inc
     </tr>
 </table>
 
-#### 📘 2. [Excel Basics for Data Analysis](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel-basics-for-data-anaysis)
+#### 📘 2. [Excel Basics for Data Analysis](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel-basics-for-data-analysis)
 
 ##### Course description
 
