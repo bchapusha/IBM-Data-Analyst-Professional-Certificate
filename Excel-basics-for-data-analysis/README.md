@@ -1,4 +1,4 @@
-# Excel Bascics for Data Analysis
+# Excel Basics for Data Analysis
 
 **Course description**: Introduction to spreadsheets including Excel and Google Sheets. Collecting, wrangling and cleaning data using functions and analyzing data through filtering, sorting and pivot tables.
 
