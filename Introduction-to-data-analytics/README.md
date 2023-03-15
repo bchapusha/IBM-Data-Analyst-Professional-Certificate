@@ -4,7 +4,7 @@
 
 # Final Assignment
 
-## Data Analysis in Action
+## 📊 Data Analysis in Action
 
 ### Introduction
 
