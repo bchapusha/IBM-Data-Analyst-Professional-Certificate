@@ -4,7 +4,7 @@
 
 ## Final Assignment
 
-### Submissions
+### 📩 Submissions
 
 | Assignment | Completed Submission |
 | :--- | :--- |
