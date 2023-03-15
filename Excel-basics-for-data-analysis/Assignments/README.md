@@ -22,7 +22,7 @@ Great! You have now completed all four modules of this course. This week, you wi
 In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with importing some data from another department which relates to inventory information about their fleet of vehicles. The data is in comma-separated value (CSV) format and the data also needs cleaning up before you can start to run any kind of analysis on it.
 
 ## Guidelines for the Submission
-Download the file Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV. Upload and open the file with Excel for the web and convert it to an .XLSX file. Then clean the data as detailed below.
+Download the file [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%201/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv). Upload and open the file with Excel for the web and convert it to an .XLSX file. Then clean the data as detailed below.
 
 ### Tasks to perform:
 
