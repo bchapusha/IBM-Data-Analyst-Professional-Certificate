@@ -2,35 +2,33 @@
 
 **Course description**: Introduction to spreadsheets including Excel and Google Sheets. Collecting, wrangling and cleaning data using functions and analyzing data through filtering, sorting and pivot tables.
 
-# Final Assignment
+## Final Assignment
 
-## 🧰 Assignment Resources
+### Submissions
 
-### Software Used in this Assignment
+| Assignment | Completed Submission |
+| :--- | :--- |
+| Part 1 | [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx) |
+| Part 2 | [Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx) |
+ 
+### 🧰 Assignment Resources
 
-The instruction videos in this course use the full Excel Desktop version as this has all the available product features, but for the hands-on labs we will be using the free ‘Excel for the web’ version as this is available to everyone.
+Download workbooks:
 
-Although you can use the Excel Desktop software if you have access to this version, it is recommended that you use Excel for the web for the hands-on labs as the lab instructions specifically refer to this version, and there are some small differences in the interface and available features.
+1. [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%201/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv)
+    * Convert file to an .XLSX file. Then clean the data as detailed below.
+    
+2. [Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.XLSX](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%202/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx) 
 
-### Dataset Used in this Assignment
-
-The dataset used in this lab comes from the following source: https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr under a Public Domain license.
-
-We are using a modified subset of that dataset for the lab, so to follow the lab instructions successfully please use the dataset provided with the lab, rather than the dataset from the original source.
+--- 
 
 ## 🟦 Part 1: Clean and Prepare the Data
 
-**Estimated time needed: 45 minutes**
+### Context
 
-Great! You have now completed all four modules of this course. This week, you will complete the final assignment that will be graded by your peers. In this assignment, you will open a CSV file in Excel for the web, convert it to an Excel format, and then clean and prepare the data.
-
-### Assignment Scenario
 In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with importing some data from another department which relates to inventory information about their fleet of vehicles. The data is in comma-separated value (CSV) format and the data also needs cleaning up before you can start to run any kind of analysis on it.
 
-### Guidelines for the Submission
-Download the file [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%201/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv). Upload and open the file with Excel for the web and convert it to an .XLSX file. Then clean the data as detailed below.
-
-### Tasks to perform:
+### Tasks to perform
 
 1. **Save the CSV file as an XLSX file**: Click the ‘Edit Workbook’ button in the ToolTip to save the file as an XLSX file. The file is converted when you click ‘OK’ in the prompt.
 
@@ -56,23 +54,15 @@ Download the file [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV](htt
     | Correction and Rehabilitation | Health and Human Services |
     | County Executives Office |  |
 
-8. **Save your workbook**: Use ‘Save As’ to save your completed workbook as [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx)
+8. **Save your workbook**: Use ‘Save As’ to save your completed workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX
 
 ---
 
 ## 🟦 Part 2: Analyze the Data
 
-**Estimated time needed: 45 minutes**
-
-You have now completed the first part of this final assignment. In this second part of the final assignment, you will take some cleaned and prepared data and create some pivot tables from it to help you analyze the data.
-
-### Assignment Scenario
+### Context
 
 In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with sorting and analyzing fleet inventory data that was previously imported and cleaned. You plan to use pivot tables to analyze the data in preparation for the results to be visualized in a dashboard and added to a data findings report later.
-
-### Guidelines for the Submission
-
-Download and open the [Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.XLSX](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%202/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx) file in Excel for the web.
 
 ### Tasks to perform:
 
@@ -99,4 +89,4 @@ Download and open the [Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.XLSX
     * In pivot table 3 add the Equipment Class field above the Department field so that the different vehicle types appear first, with the different departments listed underneath each vehicle type with their respective counts.
     * Collapse all fields except the top one - CUV
 
-7. **Save your workbook**: Use ‘Save As’ to save your workbook as [Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx)
+7. **Save your workbook**: Use ‘Save As’ to save your workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX
