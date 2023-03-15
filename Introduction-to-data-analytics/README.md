@@ -30,9 +30,9 @@ Imagine that you have been hired as a Data Analyst to work in the Credit Card Di
 
   **Ans**: 
 
-    * The identification details of the customer or card holder 
+    *The identification details of the customer or card holder 
 
-    * The date and time transactions took place
+    *The date and time transactions took place
 
     * The amount spent on each transaction
 
