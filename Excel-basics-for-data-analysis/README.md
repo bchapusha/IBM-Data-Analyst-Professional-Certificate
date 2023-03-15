@@ -1,4 +1,4 @@
-# Excel Bascics for Data Analysis
+# Excel Bascics for Data Analysis <img src="https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/images/ibm-logo.jpg" alt="Image of IBM logo" align="left" width="140">
 
 **Course description**: Introduction to spreadsheets including Excel and Google Sheets. Collecting, wrangling and cleaning data using functions and analyzing data through filtering, sorting and pivot tables.
 
