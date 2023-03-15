@@ -34,35 +34,35 @@ Imagine that you have been hired as a Data Analyst to work in the Credit Card Di
 
   * The date and time transactions took place
 
-    * The amount spent on each transaction
+  * The amount spent on each transaction
 
-    * The address to which said transaction goods were delivered
+  * The address to which said transaction goods were delivered
 
-    * The IP address from which the transaction was made
+  * The IP address from which the transaction was made
 
 #### 2. Identify 3 (three) errors/issues that could impact the accuracy of your findings, based on a data table provided. 
 
-  **Ans**: 
+**Ans**: 
 
-    * Missing data for the transaction value for user ID "johnp"
+  * Missing data for the transaction value for user ID "johnp"
 
-    * Missing ip address for the user ID's "johnp" and "davidg"
+  * Missing ip address for the user ID's "johnp" and "davidg"
 
-    * Variations in date format
+  * Variations in date format
 
 #### 3. Identify 2 (two) anomalies, or unexpected behaviors, that would lead you to believe the transaction may be suspect, based on a data table provided. 
 
-  **Ans**: 
+**Ans**: 
 
-    * There are changes in ip address for the user ID's "johnp" and "ellend"
+  * There are changes in ip address for the user ID's "johnp" and "ellend"
 
-    * There are changes in shipping address for user ID's "johnp" and "ellend"
+  * There are changes in shipping address for user ID's "johnp" and "ellend"
 
 #### 4. Briefly explain your key take-away from the provided data visualization chart. 
 
-  **Ans**: The visual details the amount of the transactions and the number of transactions for the specific user ID's. The most significant detail is the sudden increase in the amount per transaction for the user ID's "johnp" and "ellend". This may indicate fraudulent activity.
+**Ans**: The visual details the amount of the transactions and the number of transactions for the specific user ID's. The most significant detail is the sudden increase in the amount per transaction for the user ID's "johnp" and "ellend". This may indicate fraudulent activity.
 
 #### 5. Identify the type of analysis that you are performing when you are analyzing historical credit card data to understand what a fraudulent transaction looks like. [Hint: The four types of Analytics include: Descriptive, Diagnostic, Predictive, Prescriptive]  
 
-  **Ans**: Descriptive analytics
+**Ans**: Descriptive analytics
 
