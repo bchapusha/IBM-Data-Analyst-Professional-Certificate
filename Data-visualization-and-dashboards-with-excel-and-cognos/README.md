@@ -4,14 +4,14 @@
 
 ## Final Assignment
 
-### Submissions
+### 📩 Submissions
 
 | Assignment | Submission |
 | :--- | :--- |
 | Part 1 |  |
 | Part 2 |  |
  
-#### Assignment Resources
+#### 🧰 Assignment Resources
 
 Download the Workbook: [CarSalesByModelStart](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%201/CarSalesByModelStart.xlsx)
 
