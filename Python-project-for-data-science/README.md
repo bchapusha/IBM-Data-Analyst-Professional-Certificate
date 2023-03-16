@@ -13,4 +13,22 @@
 
 For this project, you will assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. Your job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data you will visualize it in a dashboard to identify patterns or trends. The stocks we will work with are Tesla, Amazon, AMD, and GameStop.
 
+#### Useful Word Definitions:
 
+  * **Stock**: a security that represents the ownership of a fraction of a corporation
+  * **Shares**: a unit of stock
+  * **Investor**: someone who buys and sells stocks for profit
+  * **Stock ticker**: a report of the price of a certain stock
+
+### Data Collection
+
+* Import the necessary libraries
+    ```
+    import yfinance as yf
+    import pandas as pd
+    import requests
+    import plotly.graph_objects as go
+    from bs4 import BeautifulSoup
+    from plotly.subplots import make_subplots
+    ```
+    
