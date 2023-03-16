@@ -19,11 +19,11 @@ Download the Workbook: [CarSalesByModelStart](https://cf-courses-data.s3.us.clou
 
 ### 🟦 Part 1: Creating Visualizations Using Excel
 
-#### Context
+#### ⚫ Context
 
 As a regional manager for a chain of car dealerships you need to create some visualizations to allow you to understand your car sales and profits for each dealer.
 
-#### Tasks to Perform
+#### ⚫ Tasks to Perform
 
 Create visualizations for the following:
 
@@ -57,11 +57,11 @@ Create visualizations for the following:
 
 ### 🟦 Part 2: Creating Visualizations Using Cognos Analytics
 
-#### Context
+#### ⚫ Context
 
 As a regional manager for a chain of car dealerships you need to build out a dashboard to allow you to understand your sales and service departments.
 
-#### Tasks to Perform
+#### ⚫ Tasks to Perform
 
 ##### Create two dashboards as follows:
 
@@ -88,7 +88,7 @@ As a regional manager for a chain of car dealerships you need to build out a das
     
 4. To export your dashboard as a PDF
 
-#### Dashboards
+#### ⚫ Dashboards
 
 <h2><p align="center"><b>Sales</b></p></h2>
 
