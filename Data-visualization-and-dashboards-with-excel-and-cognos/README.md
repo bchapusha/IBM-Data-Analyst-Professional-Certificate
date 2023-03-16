@@ -9,7 +9,7 @@
 | Assignment | Submission |
 | :--- | :--- |
 | Part 1 | [CarSalesByModelEnd.xlsx](CarSalesByModelEnd.xlsx) |
-| Part 2 |  |
+| Part 2 | [Cognos-sales-services-dashboards.pdf](Cognos-sales-services-dashboards.pdf) |
  
 ### 🧰 Assignment Resources
 
