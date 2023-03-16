@@ -67,7 +67,7 @@ Create data visualizations and dashboards using spreadsheets and analytics tools
 
 ---
 
-### 📘 4. [Python for Data Science and AI Development](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Python-for-data-science-ai-and-development)
+### 📘 4. Python for Data Science and AI Development
 
 #### Course description
 
