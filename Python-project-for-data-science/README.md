@@ -61,13 +61,13 @@ gamestop_data.reset_index(inplace=True)
 ```
 tesla_data.head(5)
 ```
-<img src="" width="1100">
+<img src="images/tesla-stock-data.jpg" width="1100">
 
   * Display first five rows of **gamestop_data** DataFrame
 ```
 gamestop_data.head(5)
 ```
-<img src="" width="1100">
+<img src="images/gme-stock-data.jpg" width="1100">
 
 ### 🟦 Part 2: Extracting Revenue Data Using Webscraping
 
@@ -117,7 +117,7 @@ tesla_revenue = tesla_revenue[tesla_revenue['Revenue'] != ""]
 ```
 tesla_revenue.tail(5)
 ```
-<img src="" width="1100">
+<img src="images/tesla-revenue-data.jpg" width="250">
 
 #### 1. Gamestop Revenue Data
 
@@ -165,7 +165,7 @@ gme_revenue = gme_revenue[gme_revenue['Revenue'] != ""]
 ```
 gme_revenue.tail(5)
 ```
-<img src="" width="1100">
+<img src="images/gme-revenue-data.jpg" width="250">
 
 ### 🟦 Part 3: Plotting The Stock Graphs 
 
@@ -194,10 +194,10 @@ def make_graph(stock_data, revenue_data, stock):
 ```
 make_graph(tesla_data, tesla_revenue, 'Tesla')
 ```
-<img src="" width="1100">
+<img src="images/tesla-graph.png" width="1100" height="700">
 
-#### 2. GameStop's Stock Graph
+#### 3. GameStop's Stock Graph
 ```
 make_graph(gme_data, gme_revenue, 'GameStop')
 ```
-<img src="" width="1100">
+<img src="images/gamestop-graph.png" width="1100" height="700">
