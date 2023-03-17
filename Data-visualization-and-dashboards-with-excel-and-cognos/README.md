@@ -69,8 +69,8 @@ As a regional manager for a chain of car dealerships you need to build out a das
 
 ##### Create two dashboards as follows:
 
-    * One dashboard using the tabbed template that has 4 small rectangles at the top and a large rectangle below - rename this dashboard tab to Sales.
-    * One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Service.
+  * One dashboard using the tabbed template that has 4 small rectangles at the top and a large rectangle below - rename this dashboard tab to Sales.
+  * One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Service.
 
 ##### Capture the following KPI metrics as visualizations:
 
