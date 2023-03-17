@@ -26,7 +26,7 @@ For this project, you will assume the role of a Data Scientist / Data Analyst wo
 
 ### 🟦 Part 1: Extracting Stock Data Using yfinance
 
-#### 1. Import the necessary libraries and modules
+#### ⚪ 1. Import the necessary libraries and modules
 ```
 import yfinance as yf
 import pandas as pd
@@ -36,21 +36,21 @@ from bs4 import BeautifulSoup
 from plotly.subplots import make_subplots
 ```
 
-#### 2. Create yfinance ticker objects for Tesla and Gamestop stocks
+#### ⚪ 2. Create yfinance ticker objects for Tesla and Gamestop stocks
 ```
 tesla = yf.Ticker("TSLA")
 
 gamestop = yf.Ticker("GME")
 ```
 
-#### 3. Extract the stock information and save it as a dataframe 
+#### ⚪ 3. Extract the stock information and save it as a dataframe 
 ```
 tesla_data = tesla.history(period="max")
 
 gamestop_data = gamestop.history(period="max")
 ```
 
-#### 4. Reset the index of both dataframes and display the first five rows
+#### ⚪ 4. Reset the index of both dataframes and display the first five rows
 ```
 tesla_data.reset_index(inplace=True)
 
@@ -71,7 +71,7 @@ gamestop_data.head(5)
 
 ### 🟦 Part 2: Extracting Revenue Data Using Webscraping
 
-#### 1. Tesla Revenue Data
+#### ⚪ 1. Tesla Revenue Data
 
 * Use the requests library to download the data source webpage and save it as text in a variable
 ```
@@ -119,7 +119,7 @@ tesla_revenue.tail(5)
 ```
 <img src="images/tesla-revenue-data.jpg" width="250">
 
-#### 1. Gamestop Revenue Data
+#### ⚪ 1. Gamestop Revenue Data
 
 * Use the requests library to download the data source webpage and save it as text in a variable
 ```
@@ -169,7 +169,7 @@ gme_revenue.tail(5)
 
 ### 🟦 Part 3: Plotting The Stock Graphs 
 
-#### 1. Defining A Graphing Function
+#### ⚪ 1. Defining A Graphing Function
 
 * Define a graphing function **make_graph** that takes three parameters; one for the stock data, another for the revenue data and one more for the name of the stock.
 ```
@@ -190,13 +190,13 @@ def make_graph(stock_data, revenue_data, stock):
     fig.show()
 ```
 
-#### 2. Tesla's Stock Graph
+#### ⚪ 2. Tesla's Stock Graph
 ```
 make_graph(tesla_data, tesla_revenue, 'Tesla')
 ```
 <img src="images/tesla-graph.png" width="1100" height="700">
 
-#### 3. GameStop's Stock Graph
+#### ⚪ 3. GameStop's Stock Graph
 ```
 make_graph(gme_data, gme_revenue, 'GameStop')
 ```
