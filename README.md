@@ -96,7 +96,7 @@ A demonstration of skills aquired in the *Python for Data Science and AI Develop
     
 |**Project Name** | **Description** |
 |:--- | :--- |
-| [An Analysis of Tesla and Gamestop Stock Data](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Python-project-for-data-science) | A new startup investment firm helps customers invest their money in stocks. Extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. Visualize it in a dashboard to identify patterns or trends. |
+| [An Analysis of Tesla and Gamestop Stock Data](https://github.com/bchapusha/IBM-Data-Analyst-Professional-Certificate/tree/main/Python-project-for-data-science/README.md) | A new startup investment firm helps customers invest their money in stocks. Extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. Visualize it in a dashboard to identify patterns or trends. |
 
 
 
