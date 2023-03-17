@@ -2,7 +2,9 @@
 
 **Course description**: Create data visualizations and dashboards using spreadsheets and analytics tools. Using various types of charts and graphs in Excel and IBM Cognos Analytics to tell stories with data.
 
-## Final Assignment
+---
+
+## Final Project: Creating Visualizations and Dashboards
 
 ### 📩 Submissions
 
@@ -11,19 +13,21 @@
 | Part 1 | [CarSalesByModelEnd.xlsx](CarSalesByModelEnd.xlsx) |
 | Part 2 | [Cognos-sales-services-dashboards.pdf](Cognos-sales-services-dashboards.pdf) |
  
-### 🧰 Assignment Resources
+### 🧰 Materials
 
-Download the Workbook: [CarSalesByModelStart](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%201/CarSalesByModelStart.xlsx)
+Downloadables: 
+
+1. [CarSalesByModelStart](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%201/CarSalesByModelStart.xlsx)
 
 ---
 
 ### 🟦 Part 1: Creating Visualizations Using Excel
 
-#### ⚫ Context
+#### ⚪ Context
 
 As a regional manager for a chain of car dealerships you need to create some visualizations to allow you to understand your car sales and profits for each dealer.
 
-#### ⚫ Tasks to Perform
+#### ⚪ Tasks to Perform
 
 Create visualizations for the following:
 
@@ -57,11 +61,11 @@ Create visualizations for the following:
 
 ### 🟦 Part 2: Creating Visualizations Using Cognos Analytics
 
-#### ⚫ Context
+#### ⚪ Context
 
 As a regional manager for a chain of car dealerships you need to build out a dashboard to allow you to understand your sales and service departments.
 
-#### ⚫ Tasks to Perform
+#### ⚪ Tasks to Perform
 
 ##### Create two dashboards as follows:
 
@@ -88,7 +92,7 @@ As a regional manager for a chain of car dealerships you need to build out a das
     
 4. To export your dashboard as a PDF
 
-#### ⚫ Dashboards
+#### ⚪ Dashboards
 
 <h2><p align="center"><b>Sales</b></p></h2>
 
