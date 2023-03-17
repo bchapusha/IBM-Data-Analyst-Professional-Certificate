@@ -2,33 +2,34 @@
 
 **Course description**: Introduction to spreadsheets including Excel and Google Sheets. Collecting, wrangling and cleaning data using functions and analyzing data through filtering, sorting and pivot tables.
 
-## Final Assignment
+---
+
+## 💼 Final Assignment: Your First Deliverable as a Data Analyst
 
 ### 📩 Submissions
 
-| Assignment | Completed Submission |
+| Section | Completed Submission |
 | :--- | :--- |
 | Part 1 | [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx) |
 | Part 2 | [Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx) |
  
-### 🧰 Assignment Resources
+### 🧰 Materials
 
-Download workbooks:
+Downloadables:
 
 1. [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%201/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv)
-    * Convert file to an .XLSX file. Then clean the data as detailed in part 1.
     
 2. [Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.XLSX](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%202/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx) 
 
 --- 
 
-## 🟦 Part 1: Clean and Prepare the Data
+### 🟦 Part 1: Clean and Prepare the Data
 
-### ⚫ Context
+#### ⚪ Scenario
 
 In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with importing some data from another department which relates to inventory information about their fleet of vehicles. The data is in comma-separated value (CSV) format and the data also needs cleaning up before you can start to run any kind of analysis on it.
 
-### ⚫ Tasks to perform
+#### ⚪ Tasks to perform
 
 1. **Save the CSV file as an XLSX file**: Click the ‘Edit Workbook’ button in the ToolTip to save the file as an XLSX file. The file is converted when you click ‘OK’ in the prompt.
 
@@ -58,13 +59,13 @@ In this final assigment, you will be following the scenario of a recently hired 
 
 ---
 
-## 🟦 Part 2: Analyze the Data
+### 🟦 Part 2: Analyze the Data
 
-### ⚫ Context
+#### ⚪ Context
 
 In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with sorting and analyzing fleet inventory data that was previously imported and cleaned. You plan to use pivot tables to analyze the data in preparation for the results to be visualized in a dashboard and added to a data findings report later.
 
-### ⚫ Tasks to perform
+#### ⚪ Tasks to perform
 
 1. **Format the data as a table**: Use the Format as Table option to format the data as a table.
 
