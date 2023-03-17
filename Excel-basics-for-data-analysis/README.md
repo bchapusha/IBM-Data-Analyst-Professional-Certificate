@@ -4,7 +4,7 @@
 
 ---
 
-## 💼 Final Assignment: Your First Deliverable as a Data Analyst
+## 💼 Final Project: Your First Deliverable as a Data Analyst
 
 ### 📩 Submissions
 
