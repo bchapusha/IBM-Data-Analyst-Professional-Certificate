@@ -188,3 +188,16 @@ def make_graph(stock_data, revenue_data, stock):
     title=stock,
     xaxis_rangeslider_visible=True)
     fig.show()
+```
+
+#### 2. Tesla's Stock Graph
+```
+make_graph(tesla_data, tesla_revenue, 'Tesla')
+```
+<img src="" width="1100">
+
+#### 2. GameStop's Stock Graph
+```
+make_graph(gme_data, gme_revenue, 'GameStop')
+```
+<img src="" width="1100">
