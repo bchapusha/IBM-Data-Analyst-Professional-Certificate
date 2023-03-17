@@ -23,7 +23,7 @@ Downloadables:
 
 ### 🟦 Part 1: Creating Visualizations Using Excel
 
-#### ⚪ Context
+#### ⚪ Scenario
 
 As a regional manager for a chain of car dealerships you need to create some visualizations to allow you to understand your car sales and profits for each dealer.
 
@@ -61,7 +61,7 @@ Create visualizations for the following:
 
 ### 🟦 Part 2: Creating Visualizations Using Cognos Analytics
 
-#### ⚪ Context
+#### ⚪ Scenario
 
 As a regional manager for a chain of car dealerships you need to build out a dashboard to allow you to understand your sales and service departments.
 
@@ -92,7 +92,9 @@ As a regional manager for a chain of car dealerships you need to build out a das
     
 4. To export your dashboard as a PDF
 
-#### ⚪ Dashboards
+---
+
+### 🟦 Sales and Service Dashboards
 
 <h2><p align="center"><b>Sales</b></p></h2>
 
