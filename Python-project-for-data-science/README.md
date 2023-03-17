@@ -13,18 +13,18 @@
 * [Gamestop Revenue Data by IBM](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html)
 * [Visualizations](images/)
 
----
-
 ### 🟦 Introduction
 
 For this project, you will assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. Your job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data you will visualize it in a dashboard to identify patterns or trends. The stocks we will work with are Tesla, Amazon, AMD, and GameStop.
 
-#### Useful Word Definitions:
+#### ⚪ Useful Word Definitions:
 
   * **Stock**: a security that represents the ownership of a fraction of a corporation
   * **Shares**: a unit of stock
   * **Investor**: someone who buys and sells stocks for profit
   * **Stock ticker**: a report of the price of a certain stock
+
+---
 
 ### 🟦 Part 1: Extracting Stock Data Using yfinance
 
@@ -70,6 +70,8 @@ tesla_data.head(5)
 gamestop_data.head(5)
 ```
 <img src="images/gme-stock-data.jpg" width="1100">
+
+---
 
 ### 🟦 Part 2: Extracting Revenue Data Using Webscraping
 
@@ -168,6 +170,8 @@ gme_revenue = gme_revenue[gme_revenue['Revenue'] != ""]
 gme_revenue.tail(5)
 ```
 <img src="images/gme-revenue-data.jpg" width="250">
+
+---
 
 ### 🟦 Part 3: Plotting The Stock Graphs 
 
