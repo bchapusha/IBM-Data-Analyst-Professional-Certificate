@@ -4,13 +4,13 @@
 
 ---
 
-## 💼 Project Overview: [An Analysis of Tesla and Gamestop Stock Data](ibm-project-notebook.ipynb)
+## 💼 Project Overview: [An Analysis of Tesla and GameStop Stock Data](ibm-project-notebook.ipynb)
 
 ### 🧰 Materials
 
 * [Completed IBM Lab Jupyter Notebook](ibm-project-notebook.ipynb)
 * [Tesla Revenue Data by IBM](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/revenue.htm)
-* [Gamestop Revenue Data by IBM](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html)
+* [GameStop Revenue Data by IBM](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html)
 * [Visualizations](images/)
 
 ### 🟦 Introduction
@@ -38,7 +38,7 @@ from bs4 import BeautifulSoup
 from plotly.subplots import make_subplots
 ```
 
-#### ⚪ 2. Create yfinance ticker objects for Tesla and Gamestop stocks
+#### ⚪ 2. Create yfinance ticker objects for Tesla and GameStop stocks
 ```
 tesla = yf.Ticker("TSLA")
 
@@ -123,7 +123,7 @@ tesla_revenue.tail(5)
 ```
 <img src="images/tesla-revenue-data.jpg" width="250">
 
-#### ⚪ 1. Gamestop Revenue Data
+#### ⚪ 1. GameStop Revenue Data
 
 * Use the requests library to download the data source webpage and save it as text in a variable
 ```
