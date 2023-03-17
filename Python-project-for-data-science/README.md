@@ -11,7 +11,7 @@
 * [Completed IBM Lab Jupyter Notebook](ibm-project-notebook.ipynb)
 * [Tesla Revenue Data by IBM](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/revenue.htm)
 * [Gamestop Revenue Data by IBM](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html)
-* [Visualizations]()
+* [Visualizations](images/)
 
 ### 🟦 Introduction
 
