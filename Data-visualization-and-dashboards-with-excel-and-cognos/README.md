@@ -102,7 +102,7 @@ As a regional manager for a chain of car dealerships you need to build out a das
   <img src="images/sales-dashboard.jpg" width="1100">
 </p>
 
-<h2><p align="center"><b>Services</b></p></h2>
+<h2><p align="center"><b>Service</b></p></h2>
 
 <p align="right">
   <img src="images/service-dashboard.jpg" width="1100">
