@@ -29,49 +29,146 @@ For this project, you will be working on a real world dataset provided by the Ch
 
 ### 🟦 Analysis
 
+#### ⚪ Access SQL Databases through Python
+
 For the analysis we will use Python with a database instance from SQL Server, which will allow us to query data using SQL through Python.
+
+The following code load the sql module and connects to a database instance
+
+```
+%load_ext sql
+%sql mssql+pyodbc://sa:****@SQLMain
+```
 
 #### ⚪ Answering Questions About The Data
 
 ##### 1. Find the total number of crimes recorded in the CRIME table.
 
-<img src="images/question-1.jpg" width="500">
+```
+%%sql
+
+SELECT COUNT(CASE_NUMBER) AS 'Number of Recorded Crimes'
+FROM CHICAGO_CRIME_DATA;
+```
+
+<img src="images/question1.jpg" width="1100">
 
 ##### 2. List community areas with per capita income less than 11000.
 
-<img src="images/question-2.jpg" width="500">
+```
+%%sql
+
+SELECT COMMUNITY_AREA_NAME AS 'Community Areas with per capita < 11000'
+FROM CENSUS_DATA
+WHERE PER_CAPITA_INCOME < 11000
+ORDER BY COMMUNITY_AREA_NAME;
+```
+
+<img src="images/question2.jpg" width="1100">
 
 ##### 3. List all case numbers for crimes involving minors?
 
-<img src="images/question-3.jpg" width="500">
+```
+%%sql
+
+SELECT CASE_NUMBER 'Case Numbers Involving Minors'
+FROM CHICAGO_CRIME_DATA
+WHERE DESCRIPTION LIKE '%MINOR%';
+```
+
+<img src="images/question3.jpg" width="1100">
 
 ##### 4. List all kidnapping crimes involving a child?(children are not considered minors for the purposes of crime analysis)
 
-<img src="images/question-4.jpg" width="500">
+```
+%%sql
+
+SELECT * 
+FROM CHICAGO_CRIME_DATA
+WHERE PRIMARY_TYPE = 'KIDNAPPING';
+```
+
+<img src="images/question4.jpg" width="1100">
 
 ##### 5. What kind of crimes were recorded at schools?
 
-<img src="images/question-5.jpg" width="500">
+```
+%%sql
+
+SELECT DISTINCT(PRIMARY_TYPE) AS 'Crimes Recorded at Schools'
+FROM CHICAGO_CRIME_DATA
+WHERE LOCATION_DESCRIPTION LIKE '%SCHOOL%';
+```
+
+<img src="images/question5.jpg" width="1100">
 
 ##### 6. List the average safety score for all types of schools.
 
-<img src="images/question-6.jpg" width="500">
+```
+%%sql
+
+SELECT Elementary_Middle_or_High_School AS 'Type of School', AVG(SAFETY_SCORE) AS 'Average Safety Score'
+FROM CHICAGO_PUBLIC_SCHOOLS
+GROUP BY Elementary_Middle_or_High_School;
+```
+
+<img src="images/question6.jpg" width="1100">
 
 ##### 7. List 5 community areas with highest % of households below poverty line.
 
-<img src="images/question-7.jpg" width="500">
+```
+%%sql
+
+SELECT TOP 5 COMMUNITY_AREA_NAME AS 'Community Area', 
+           CONVERT(DECIMAL(4,1), PERCENT_HOUSEHOLDS_BELOW_POVERTY) AS '% Households Below Poverty Line'
+FROM CENSUS_DATA
+ORDER BY PERCENT_HOUSEHOLDS_BELOW_POVERTY DESC;
+```
+
+<img src="images/question7.jpg" width="1100">
 
 ##### 8. Which community area(number) is most crime prone?
 
-<img src="images/question-8.jpg" width="500">
+```
+%%sql
+
+SELECT TOP 1 CENSUS_DATA.COMMUNITY_AREA_NAME AS 'Community Area', 
+             COUNT(CHICAGO_CRIME_DATA.COMMUNITY_AREA_NUMBER) AS 'Number of Crimes'
+FROM CHICAGO_CRIME_DATA
+INNER JOIN CENSUS_DATA
+ON CHICAGO_CRIME_DATA.COMMUNITY_AREA_NUMBER = CENSUS_DATA.COMMUNITY_AREA_NUMBER 
+GROUP BY CENSUS_DATA.COMMUNITY_AREA_NAME
+ORDER BY COUNT(CHICAGO_CRIME_DATA.COMMUNITY_AREA_NUMBER) DESC;
+```
+
+<img src="images/question8.jpg" width="1100">
 
 ##### 9. Use a sub-query to find the name of the community area with highest hardship index.
 
-<img src="images/question-9.jpg" width="500">
+```
+%%sql
+
+SELECT COMMUNITY_AREA_NAME AS 'Community Area with Highest Hardship Index'
+FROM CENSUS_DATA
+WHERE HARDSHIP_INDEX = (SELECT MAX(HARDSHIP_INDEX) FROM CENSUS_DATA);
+```
+
+<img src="images/question9.jpg" width="1100">
 
 ##### 10. Use a sub-query to determine the Community Area Name with most number of crimes?
 
-<img src="images/question-10.jpg" width="500">
+```
+%%sql
+
+SELECT TOP 1 COMMUNITY_AREA_NAME AS 'Community Area with Most Crimes'
+FROM CENSUS_DATA
+WHERE COMMUNITY_AREA_NUMBER = (SELECT TOP 1 COMMUNITY_AREA_NUMBER 
+                               FROM CHICAGO_CRIME_DATA 
+                               GROUP BY COMMUNITY_AREA_NUMBER 
+                               ORDER BY COUNT(COMMUNITY_AREA_NUMBER) DESC);
+```
+
+<img src="images/question10.jpg" width="1100">
 
 ---
 
