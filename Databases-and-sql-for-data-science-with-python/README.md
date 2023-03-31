@@ -169,7 +169,3 @@ WHERE COMMUNITY_AREA_NUMBER = (SELECT TOP 1 COMMUNITY_AREA_NUMBER
 ```
 
 <img src="images/question10.jpg" width="1100">
-
----
-
-### 🟦 Findings
