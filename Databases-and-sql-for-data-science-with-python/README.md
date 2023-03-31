@@ -10,6 +10,8 @@ Introduction to SQL for data analysis and using SQL with Python. Building querie
 
 ### 🧰 Materials
 
+* [Completed IBM Lab Jupyter Notebook](ibm-project-notebook.ipynb)
+
 Tools:
 
 * [SQL Server Management Studio 19](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
