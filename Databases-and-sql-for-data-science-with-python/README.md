@@ -73,9 +73,6 @@ For the analysis we will use Python with a database instance from SQL Server, wh
 
 <img src="images/question-10.jpg" width="500">
 
-#### ⚪ Insights
-
-
 ---
 
-### 🟦 Conclusion
+### 🟦 Findings
