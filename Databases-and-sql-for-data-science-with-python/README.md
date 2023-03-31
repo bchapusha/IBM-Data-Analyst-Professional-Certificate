@@ -33,23 +33,43 @@ For the analysis we will use Python with a database instance from SQL Server, wh
 
 ##### 1. Find the total number of crimes recorded in the CRIME table.
 
+<img src="images/question-1.jpg" width="500">
+
 ##### 2. List community areas with per capita income less than 11000.
+
+<img src="images/question-2.jpg" width="500">
 
 ##### 3. List all case numbers for crimes involving minors?
 
+<img src="images/question-3.jpg" width="500">
+
 ##### 4. List all kidnapping crimes involving a child?(children are not considered minors for the purposes of crime analysis)
+
+<img src="images/question-4.jpg" width="500">
 
 ##### 5. What kind of crimes were recorded at schools?
 
+<img src="images/question-5.jpg" width="500">
+
 ##### 6. List the average safety score for all types of schools.
+
+<img src="images/question-6.jpg" width="500">
 
 ##### 7. List 5 community areas with highest % of households below poverty line.
 
+<img src="images/question-7.jpg" width="500">
+
 ##### 8. Which community area(number) is most crime prone?
+
+<img src="images/question-8.jpg" width="500">
 
 ##### 9. Use a sub-query to find the name of the community area with highest hardship index.
 
+<img src="images/question-9.jpg" width="500">
+
 ##### 10. Use a sub-query to determine the Community Area Name with most number of crimes?
+
+<img src="images/question-10.jpg" width="500">
 
 #### ⚪ Insights
 
